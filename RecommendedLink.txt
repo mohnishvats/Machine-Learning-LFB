@@ -1,3 +1,5 @@
 Recommended Link Of Blog and videos for ml,ds, dl and ai
 1>.Ultimate Guide to Regression and Classification
     Link : https://www.superdatascience.com/blogs/the-ultimate-guide-to-regression-classification
+2>.Hierachical Clustering
+    Link : https://towardsdatascience.com/hierarchical-clustering-agglomerative-and-divisive-explained-342e6b20d710
